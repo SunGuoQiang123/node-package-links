@@ -3,13 +3,17 @@
 	"displayName": "node-package-links",
 	"description": "provide package.json package link",
 	"version": "0.0.2",
-	"publisher": "sunguoqiang",
 	"icon": "npm.png",
+	"publisher": "sunguoqiang",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/SunGuoQiang123/node-package-links.git"
+	},
 	"engines": {
 		"vscode": "^1.47.0"
 	},
 	"categories": [
-		"Other"
+		"Programming Languages"
 	],
 	"activationEvents": [
 		"onLanguage:json"
