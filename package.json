@@ -2,7 +2,7 @@
 	"name": "node-package-links",
 	"displayName": "node-package-links",
 	"description": "provide package.json package link",
-	"version": "0.0.2",
+	"version": "0.1.0",
 	"icon": "npm.png",
 	"publisher": "sunguoqiang",
 	"repository": {
